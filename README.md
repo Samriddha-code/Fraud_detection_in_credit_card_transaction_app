@@ -30,7 +30,3 @@ The following key machine learning functions were performed to build the fraud d
 * `Fraud Detection in Credit Card Transactions.ipynb`: The Jupyter notebook detailing the full project workflow from data exploration to model saving.
 * `README.md`: This file.
 * `requirements.txt`: A list of all Python libraries needed for the project.
-
-### Contact
-
-For any questions, feel free to contact me at [Your Email Address].
